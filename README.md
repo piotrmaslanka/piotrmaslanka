@@ -4,12 +4,12 @@ Born in 1991, I know over 23 languages on 10 hardware platforms, including COBOL
 
 I've started programming in primary school, wrote my first [OS kernel](https://github.com/piotrmaslanka/miaos) (*in assembly*) in middle school.
 
-I've finished Technical School as an IT technician (with honors), then I finished MEng in CS (with honors as well), and biotechnology.
+I've finished Technical School as an IT technician (with honors), then I finished MEng in CS (with honors as well), and biotechnology (BEng). I've also completed 4 years of doctoral school, but dropped out at 4th year.
 I've finished 1st year of Emergency Medical Services with the highest grade, then I dropped these studies, since I'm already a qualified first aider.
 
 I'm an expert witness.
 
-Oh, and I invented [SMOK](https://github.com/smok-serwis) in 2009.
+Oh, and I invented [SMOK](https://github.com/smok-serwis) in 2009. Back then, I wrote everything - from firmware, to backend, to frontend. Now it's a real company.
 
 Besides I'm interested in medicine, law (having read GDPR and [EMC law](2014/30/UE).
 
