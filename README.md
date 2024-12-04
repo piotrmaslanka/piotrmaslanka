@@ -10,4 +10,4 @@ I've finished 1st year of Emergency Medical Services with the highest grade, the
 I'm an expert witness. Oh, and I invented [SMOK](https://github.com/smok-serwis) in 2009, back then, I wrote everything - from firmware (C/Tibbo Basic), to backend (Python 2), to frontend (jQuery). Now it's a real company.
 
 Besides I'm interested in medicine, law (having read GDPR and [EMC law](2014/30/UE)).
-I'm also the author of the majority of the software in [SMOK's repository](https://github.com/smok-serwis), so my company delivers more FOSS than two largest IT companies in Rzeszów, Poland, where I live.
+I'm also the author of the majority of the software in [SMOK's repository](https://github.com/smok-serwis), so my company delivers more FOSS than two largest IT companies together in Rzeszów, Poland, where I live.
