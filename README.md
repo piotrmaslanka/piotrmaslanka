@@ -1,6 +1,6 @@
 ## Hi there
 
-Born in 1991, I know over 23 languages on 10 hardware platforms, including [COBOL](https://gist.github.com/piotrmaslanka/5321826) and PL/I (I had an extra 192 hours course in IBM mainframe tech), I can program both x86-64 and [Atmel AVR](https://github.com/piotrmaslanka/alarm-avr). I can even design a CPU, if asked to do so nicely.
+Born in 1991, raised on Turbo Pascal 7, I know over 23 languages on 10 hardware platforms, including [COBOL](https://gist.github.com/piotrmaslanka/5321826) and PL/I (I had an extra 192 hours course in IBM mainframe tech), I can program both x86-64 and [Atmel AVR](https://github.com/piotrmaslanka/alarm-avr). I can even design a CPU, if asked to do so nicely.
 
 I've started programming in primary school, wrote my first [OS kernel](https://github.com/piotrmaslanka/miaos) (*in assembly*) in middle school.
 
