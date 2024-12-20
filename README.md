@@ -4,7 +4,7 @@ Born in 1991, raised on Turbo Pascal 7, I know over 23 languages on 10 hardware 
 
 I've started programming in primary school, wrote my first [OS kernel](https://github.com/piotrmaslanka/miaos) (*in assembly*) in middle school.
 
-I've finished Technical School as an IT technician (with honors), then I finished MEng in CS (with honors as well), and biotechnology (BEng, I've figured out how to treat [diabetes in hedgehogs](https://henrietta.com.pl/index.php/2021/07/25/biomolekularne-przeslanki-stosowania-insuliny-wieprzowej-w-terapii-cukrzycy-u-jeza-europejskiego/)). I've also completed 4 years of PhD school, but dropped out at 4th year.
+I've finished Technical School as an IT technician (with honors), then I finished MEng in CS (with honors as well, as [the best student in the faculty](https://weii.prz.edu.pl/aktualnosci/medal-primus-inter-pares-dla-absolwenta-wydzialu-elektrotechniki-i-informatyki-25.html)), and biotechnology (BEng, I've figured out how to treat [diabetes in hedgehogs](https://henrietta.com.pl/index.php/2021/07/25/biomolekularne-przeslanki-stosowania-insuliny-wieprzowej-w-terapii-cukrzycy-u-jeza-europejskiego/)). I've also completed 4 years of PhD school, but dropped out at 4th year.
 I've finished 1st year of Emergency Medical Services with the highest grade, then I dropped these studies, since I'm already a qualified first aider.
 
 I'm an expert witness. Oh, and I invented [SMOK](https://github.com/smok-serwis) in 2009, back then, I wrote everything - from firmware (C/Tibbo Basic), to backend (Python 2), to frontend (jQuery). Now it's a real company.
